@@ -1,4 +1,4 @@
-In this project, let's build **Nxt Watch** by applying the concepts we have learned till now.
+In this project, let's build **Nxt Watch** by applying the concepts I have learned till now.
 
 ### Refer to the videos below:
 
@@ -596,10 +596,3 @@ console.log(formatDistanceToNow(new Date(2021, 8, 20)))
 - Roboto
 
 </details>
-
-> ### _Things to Keep in Mind_
->
-> - All components you implement should go in the `src/components` directory.
-> - Don't change the component folder names as those are the files being imported into the tests.
-> - **Do not remove the pre-filled code**
-> - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
